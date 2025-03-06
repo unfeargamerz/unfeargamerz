@@ -1,0 +1,40 @@
+/* General body styling */
+body {
+    background-image: url('digital-technology-metaverse-neon-blue-600nw-2260816645.jpg'); 
+    background-size: cover; /* Makes the image cover the whole screen */
+    background-position: center; /* Centers the background */
+    background-repeat: no-repeat; /* Stops the image from repeating */
+    font-family: Arial, sans-serif;
+    color: white; /* Ensures text is readable */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+header {
+    background: rgba(0, 0, 0, 0.6); /* Semi-transparent black background */
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+p {
+    font-size: 1.2em;
+}
+
+/* Section Styling */
+section {
+    padding: 20px;
+}
+
+/* About Section */
+#about {
+    background: rgba(255, 255, 255, 0.2); /* Semi-transparent white background */
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
